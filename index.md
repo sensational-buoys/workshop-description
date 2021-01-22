@@ -50,10 +50,10 @@ Participants will be able to sign up for the workshop until the 25th of May. In 
 Six hours in total, three for each day of the workshop.
 
 ## Schedule 
-First part: Speculative design Saturday 26/June/2021 15:00-18:00 CET
-Second part: Create your buoy! Sunday 27/June/2021 15:00-18:00 CET
+- First part: Speculative design Saturday 26/June/2021 15:00-18:00 CET
+- Second part: Create your buoy! Sunday 27/June/2021 15:00-18:00 CET
 
 ## References
-Joachim Claudet, et al. 2020. A Roadmap for Using the UN Decade of Ocean Science for Sustainable Development in Support of Science, Policy, and Action. One Earth 2, 1 (January 2020), 34–42. DOI:https://doi.org/10.1016/j.oneear.2019.10.012
-Lobna Hassan and Mattia Thibault. 2020. Critical Playable Cities. In Making Smart Cities More Playable, Anton Nijholt (ed.). Springer Singapore, Singapore, 71–85. DOI:https://doi.org/10.1007/978-981-13-9765-3_4
-Nina Valkanova, Sergi Jorda, and Andrew Vande Moere. 2015. Public visualization displays of citizen data: Design, impact and implications. International Journal of Human-Computer Studies 81, (September 2015), 4–16. DOI:https://doi.org/10.1016/j.ijhcs.2015.02.005
+- Joachim Claudet, et al. 2020. A Roadmap for Using the UN Decade of Ocean Science for Sustainable Development in Support of Science, Policy, and Action. One Earth 2, 1 (January 2020), 34–42. DOI:https://doi.org/10.1016/j.oneear.2019.10.012
+- Lobna Hassan and Mattia Thibault. 2020. Critical Playable Cities. In Making Smart Cities More Playable, Anton Nijholt (ed.). Springer Singapore, Singapore, 71–85. DOI:https://doi.org/10.1007/978-981-13-9765-3_4
+- Nina Valkanova, Sergi Jorda, and Andrew Vande Moere. 2015. Public visualization displays of citizen data: Design, impact and implications. International Journal of Human-Computer Studies 81, (September 2015), 4–16. DOI:https://doi.org/10.1016/j.ijhcs.2015.02.005
