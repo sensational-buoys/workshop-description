@@ -65,6 +65,7 @@ Artur Cordeiro, independent researcher - [arturvc.net.br](arturvc.net.br)
 
 - Joachim Claudet, et al. 2020. A Roadmap for Using the UN Decade of Ocean Science for Sustainable Development in Support of Science, Policy, and Action. One Earth 2, 1 (January 2020), 34–42. DOI:https://doi.org/10.1016/j.oneear.2019.10.012
 - Thibault, M, and K Heljakka (2019) “Toyification: a conceptual statement” in G. Brougère and M. Allen 8th International Toy Research Association World Conference, Jul 2018, Paris, France.
+- Thibault, M, Cordeiro, A. V. and De Waal, M.. Rook - Urban Play and Data Visualization. In: Proceedings of the 2020 DiGRA International Conference: Play Everywhere, 2020. 
 - Nina Valkanova, Sergi Jorda, and Andrew Vande Moere. 2015. Public visualization displays of citizen data: Design, impact and implications. International Journal of Human-Computer Studies 81, (September 2015), 4–16. DOI:https://doi.org/10.1016/j.ijhcs.2015.02.005
 
 
