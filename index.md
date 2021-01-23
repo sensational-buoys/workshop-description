@@ -39,7 +39,7 @@ The participants will learn to program the microcontroller that has a built-in s
 #### Materials
 
 In order to be able to actively participate to the second day, the participants will be asked to buy the following materials:
-- MicroBit Go bundle (v1 or v2) [estimated price around 20 €] - https://www.microbit.org/buy/
+- MicroBit Go bundle (v1 or v2) [estimated price around 20 €] - [https://www.microbit.org/buy](https://www.microbit.org/buy)
 - Craft material to make the floating part of the buoy: plastic bottles with cap, waterproof recipients, popsicle sticks, wooden dowels and similar.
 - Tools and material to assemble the Sensational Buoy like scissors, hot glue, glue, tape, string, elastic band.
 - A toy figure of an appropriate size like a Playmobil, Lego, or similar.
@@ -58,8 +58,9 @@ Register your participation in Sensational Buoys Workshop at the following link:
 
 ## Workshop host
 
-Mattia Thibault, Tampere University - urban-play.eu
-Artur Cordeiro, independent researcher - arturvc.net.br
+Mattia Thibault, Tampere University - [urban-play.eu](urban-play.eu)
+
+Artur Cordeiro, independent researcher - [arturvc.net.br](arturvc.net.br)
 
 ## References
 
