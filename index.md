@@ -57,9 +57,9 @@ Register your participation in Sensational Buoys Workshop at the following link:
 
 ## Workshop host
 
-Mattia Thibault, Tampere University - [urban-play.eu](urban-play.eu)
+Mattia Thibault, Tampere University - [urban-play.eu](http://urban-play.eu/)
 
-Artur Cordeiro, independent researcher - [arturvc.net.br](arturvc.net.br)
+Artur Cordeiro, independent researcher - [arturvc.net.br](http://arturvc.net.br)
 
 ## References
 
