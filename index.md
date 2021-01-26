@@ -49,7 +49,7 @@ In order to be able to actively participate to the second day, the participants 
 
 At the end of the workshop, the participants will vote for the most interesting, curious and fun Buoy. The makers will receive the symbolical “Sensational Award” for their work and design.
 
-## Procedures for signing up.
+## Procedures for signing up
 
 **Deadline 25th May 2021**
 
@@ -57,7 +57,7 @@ Participants will be able to sign up for the workshop until the 25th of May. In 
 
 Register your participation in Sensational Buoys Workshop at the following link: [https://forms.gle/V1c1xdUXgrsj8Nnh8](https://forms.gle/V1c1xdUXgrsj8Nnh8)
 
-## Workshop host
+## Workshop hosts
 
 Mattia Thibault, Tampere University - [urban-play.eu](http://urban-play.eu/)
 
