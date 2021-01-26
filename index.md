@@ -1,11 +1,11 @@
 # Sensational Buoys Workshop: citizens sensing and urban waters
 
-26-27 June 2021
+26-27 June 2021 - Zoom
 
 Media Architecture Biennale - [mab20.org](http://mab20.org)
 
 ## Introduction
-The workshop Sensational Buoys aims to explore the intersection between citizen sensing, toyification and monitoring urban waters. 
+The online workshop Sensational Buoys aims to explore the intersection between citizen sensing, toyification and monitoring urban waters. 
 The workshop is dedicated to the design and realisation of “Sensational Buoys”: small floating devices equipped with simple sensors and having a playful appearance. The buoys are playful devices to sense and visualize data about urban waters and are intended to raise awareness about the importance of monitoring our environment. 
 
 **NB** Previous experience with coding and/or electronics is not required.
@@ -14,9 +14,10 @@ The workshop is dedicated to the design and realisation of “Sensational Buoys�
 “Citizen sensing” means redistributing the power and ability of using sensors and monitoring our environment to citizens and communities. It is a way to promote awareness about the environment we live in and can be an empowerment tool fostering discussion and inspiring citizens to take action. 
 Toyification is a subset of gamification: the attempt to use toys and toy-like objects to support creativity, curiosity and exploration. The Sensational Buoys, then, will be characterised by a toy-like aesthetics as a way to make them more enticing, so that they can engage participants and passersby in the activity and draw attention to the project.
 
+## Project
 The workshop will be divided in two parts: one dedicated to the speculative, collaborative design of Sensational Buoys and one dedicated to the realisation and testing.
 
-## Project
+The workshop will be held online via Zoom. The participants can attend the workshop and build their own buoy wherever they are in the World.
 
 ### First part: Speculative design 
 
