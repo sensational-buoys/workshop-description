@@ -15,7 +15,14 @@ The workshop is dedicated to the design and realisation of â€œSensational Buoysâ
 Toyification is a subset of gamification: the attempt to use toys and toy-like objects to support creativity, curiosity and exploration. The Sensational Buoys, then, will be characterised by a toy-like aesthetics as a way to make them more enticing, so that they can engage participants and passersby in the activity and draw attention to the project.
 
 ## Project
-The workshop will be divided in two parts: one dedicated to the speculative, collaborative design of Sensational Buoys and one dedicated to the realisation and testing.
+
+~~The workshop will be divided in two parts: one dedicated to the speculative, collaborative design of Sensational Buoys and one dedicated to the realisation and testing.~~
+
+**UPDATE**: The MicroBit has been out of stock worldwide for a while and, in the beginning of June, we decided to change the structure of the workshop accordingly. As we could not predict when it would be available again, and as it was too late to find and prepare another accessible solution that integrates a microcontroller, display and sensor - we decided to reduce the workshop to 1 day only: Saturday 26. 
+
+On this date we will proceed with the speculative design workshop, but we will also spend some time discussing possible practical ways and technologies to further develop our sensing devices. Therefore, if you do not have the microcontroller, you will still be allowed to participate meaningfully. Instead, if you have already bought the MicroBit you will be able to use it in the workshop: we will explain how to use it with the buoys and include it in your design.
+
+So, the Sensational Buoys Workshop will be a **single day activity on Saturday 26th June at 15:00-18:00 CEST**.
 
 The workshop will be held online via Zoom. The participants can attend the workshop and build their own buoy wherever they are in the World.
 
@@ -30,12 +37,12 @@ With the help of the facilitators, the participants will work in groups and enga
 
 Participants are invited to prepare some materials for low-fi prototyping (such as cardboard, scissors, drawing materials, toys etc.). 
 
-### Second part: Create your buoy! 
+~~### Second part: Create your buoy! ~~
 
-Sunday 27-June 15:00-18:00 CET
+~~Sunday 27-June 15:00-18:00 CET~~
 
-The second part of the workshop will be dedicated to the realisation of some Sensational Buoys made of recycled and craft materials and of a MicroBit board. The participants will create floating devices able to measure temperature near the water surface and display the collected information. The Sensational Buoys are not meant to collect scientifically accurate data, but to introduce the participants to the basics of citizen sensing in the urban water environment.
-The participants will learn to program the microcontroller that has a built-in sensor and led matrix. According to the available craft material, they will create a floating vessel to host a toy figure and the microcontroller.
+~~The second part of the workshop will be dedicated to the realisation of some Sensational Buoys made of recycled and craft materials and of a MicroBit board. The participants will create floating devices able to measure temperature near the water surface and display the collected information. The Sensational Buoys are not meant to collect scientifically accurate data, but to introduce the participants to the basics of citizen sensing in the urban water environment.~~
+~~The participants will learn to program the microcontroller that has a built-in sensor and led matrix. According to the available craft material, they will create a floating vessel to host a toy figure and the microcontroller.~~
 
 #### Materials
 
